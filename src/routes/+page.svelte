@@ -126,7 +126,7 @@
 		.welcome img {
 		position: absolute;
 		width: 100%;
-		height: 100%;
+		height: 115%;
 		top: 0px;
 		left: 0px;
 		display: block;
