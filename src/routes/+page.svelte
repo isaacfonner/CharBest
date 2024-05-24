@@ -16,14 +16,13 @@
 	import python from '$lib/images/python.png';
 	import tailwind from '$lib/images/tailwind.png';
 	import replit from '$lib/images/replit.png';
-	import ico from '$lib/images/charmander.jpg';
+
 
 </script>
 <svelte:head>
 	<title>About</title>
 	<meta name="description" content="About this app" />
-	<source srcset={ico} type="image/webp" />
-	<link rel="icon" type="image/x-icon" href="{ico}">
+
 </svelte:head>
 
 <div class="text-column">
